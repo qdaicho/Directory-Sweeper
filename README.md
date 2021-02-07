@@ -1,6 +1,8 @@
 ## Inspiration
 My folders are always messy. That's why I decided to program a solution to this problem.
 
+## Video Demo
+
 ## What it does
 When you start the program, it asks for a cluttered directory to organize. Once you click it, it'll immediately begin organizing the directory. It will create an organized folder and within it, it'll have a folder for every file type [Text Files, Video Files, Image Files, etc].
 
